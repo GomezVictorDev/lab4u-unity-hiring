@@ -4,17 +4,21 @@ El objetivo de este repositorio es una base de codigo con ciertas preguntas que 
 
 ## Descripción del ejercicio 
 
-El ejercicio consta de una unica escena que contiene una aplicación con ciertos errores y TODO: temas por hacer que el candidato debe intentar resolver.
+El ejercicio consta de una unica escena que contiene una aplicación con ciertos errores y TODOs: "temas por hacer" que el candidato debe intentar resolver.
 
 
 
 ## Funcionalidades del ejercicio.
 
-### US_001: Como usuario debo poder iniciar la lectura del acelerometro para poder ver sus datos.
+#### US_001: Como usuario debo poder iniciar la lectura del acelerometro para poder ver sus datos.
 
-### US_002: Como usuario debo poder revisar todos los datos recolectados por el acelerometro.
+#### US_002: Como usuario debo poder revisar todos los datos recolectados por el acelerometro.
 
-### US_003: Como usuario debo poder detener la lectura del acelerometro.
+#### US_003: Como usuario debo poder detener la lectura del acelerometro.
 
-### US_004: Como usuario debo poder limpiar todos los datos que ha recolectado el sistema para volver a empezar.
+#### US_004: Como usuario debo poder limpiar todos los datos que ha recolectado el sistema para volver a empezar.
 
+
+## Estructura del directorio 
+
+![alt text](screenshots/filename.png "Description goes here")
