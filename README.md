@@ -16,8 +16,7 @@ Cada Historia de Usuario(US) esta implementada o no en el ejemplo
 **Criterio de aceptación**
 1. Al momento de iniciar el sistema debe empezar a mostar todos los datos a la izquierda de la pantalla.
 2. Al momento de ver los datos el sistema debe seguir el ultimo dato ingresado, de ser necesario tener un scroll para ir siguiente el dato.
-3. Debe poder ir siguiente el movimiento del acelerometro de un android.
-2. Una vez iniciado el sistema se debe deshabilitar el boton de inicio hasta que el boton de detención vuelva a ser presionado.
+3. Una vez iniciado el sistema se debe deshabilitar el boton de inicio hasta que el boton de detención vuelva a ser presionado.
 #### US_002: Como usuario debo poder revisar todos los datos recolectados por el acelerometro.
 **Criterio de aceptación**
 1. Debo poder desplazarme por todos los datos recolectados.
@@ -28,7 +27,7 @@ Cada Historia de Usuario(US) esta implementada o no en el ejemplo
 #### US_004: Como usuario debo poder limpiar todos los datos que ha recolectado el sistema para volver a empezar.
 **Criterio de aceptación**
 1. La pantalla debe volver a su estado inicial como si nada hubiera pasado.
-#### US_005: (DESEABLE) Como usuario al momento de iniciar la lectura debo ver el movimiento de 2 o 3 ejes utilizando un modelo de vectores.
+#### US_005: Como usuario al momento de iniciar la lectura debo ver el movimiento de 2 o 3 ejes utilizando un modelo de vectores.
 **Criterio de aceptación**
 1. El sistema debe mostrar la acelaración en forma de un vector.
 ![alt](req/images/req_005.png)
