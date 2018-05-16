@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-public class PnlDataController : MonoBehaviour {
+public class PnlDataController : MonoBehaviour {//este objeto es creado para cada grupo de valores a mostrar en pantalla(vx,vy,vz,vt)
 
 	public Text[] txtval = new Text[4];
 
