@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/acelerometer.unity
+    guid: b10d6166950ce459c9d6625fda811157
+  m_configObjects: {}
