@@ -1,7 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/// <summary>
+/// Esta clase tiene como objetivo permiti desactivar los botones dependiendo si alguno de los otros fue activado o no
+/// </summary>
 public class AccelerometerButtonGroup : MonoBehaviour {
 
     // Use this for initialization
@@ -37,6 +39,7 @@ public class AccelerometerButtonGroup : MonoBehaviour {
             EnableButtonStart();
             EnableButtonClean();
         }
+      
 
     }
     private void EnableButtonStop()

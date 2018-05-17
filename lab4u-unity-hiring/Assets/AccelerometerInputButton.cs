@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-
+/// <summary>
+/// esta clase permite estandarizar el uso de los botones y establecer su comportamiento por medio del enumerador ButtonType que podremos seleccionar en el inspector
+/// </summary>
 public class AccelerometerInputButton : MonoBehaviour {
 
     // Use this for initialization
@@ -30,6 +32,7 @@ public class AccelerometerInputButton : MonoBehaviour {
         {
             case ButtonType.CLEAN:
                 accelerometerInput.CleanObjects();
+                PnlDataController.CleanSelectedText();// al presionar el boton clean tambien limpiamoz el boton seleccionado
                 break;
             case ButtonType.START:
                 accelerometerInput.StartAccelerometer();
